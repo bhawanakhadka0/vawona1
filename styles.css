@@ -1,0 +1,22 @@
+.content{
+    font-family: Georgia, serif;
+    text-align: center;
+}
+#first{
+    font-family: Georgia,serif;
+    color: red;
+}
+img{
+    display: block;
+    margin: auto;
+    height: 400px;
+    width: 400px;
+}
+#second{
+    text-align: center;
+    word-wrap: break-word;
+    color: red;
+}
+#third{
+    font-size: small;
+}
